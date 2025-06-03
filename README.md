@@ -146,13 +146,3 @@ Opção (1-6):
   3. `main()`: Lê dados, exibe menus, realiza comparações e exibe resultados.
 
 ---
-
-## 7. Autor
-
-Projeto desenvolvido por [Seu Nome Aqui].
-
----
-
-## 8. Licença
-
-Este projeto está licenciado sob a Licença MIT.
